@@ -29,6 +29,11 @@ div {
   width: 600px;
 }
 
+header div {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 article {
   padding: 50px 0;
 }
