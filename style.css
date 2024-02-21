@@ -72,13 +72,18 @@ footer {
   text-align: center;
 }
 
+/* Other page elements */
+hr {
+  border: 1px solid black;
+}
+/*flexbox  */
 .group {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
-/* Other page elements */
-hr {
-  border: 1px solid black;
+
+.left-aligned {
+  text-align: left;
 }
