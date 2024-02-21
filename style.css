@@ -27,12 +27,15 @@ div {
   background-color: #eae2b7;
   margin: auto;
   width: 600px;
-  box-sizing: content-box;
 }
 
 header div {
-  padding-left: 10px;
-  padding-right: 10px;
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  box-sizing: content-box;
 }
 
 article {
