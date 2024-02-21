@@ -19,6 +19,7 @@ h3 {
 /* Header */
 header {
   text-align: center;
+  margin-right: 0px;
 }
 
 /* Containers */
@@ -49,6 +50,10 @@ a:link {
 
 a:hover {
   color: #f77f00;
+}
+
+nav {
+  margin-left: 0px;
 }
 
 nav a {
