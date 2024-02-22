@@ -98,3 +98,7 @@ hr {
 .left-aligned {
   text-align: left;
 }
+
+section {
+  height: max-content;
+}
