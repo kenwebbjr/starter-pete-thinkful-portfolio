@@ -22,15 +22,17 @@ header {
   width: 100%;
 }
 
-header div {
-  text-align: center:
-}
-
 /* Containers */
 div {
   background-color: #eae2b7;
   margin: auto;
   width: 600px;
+}
+
+header div {
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 350 px;
 }
 
 article {
@@ -90,7 +92,6 @@ hr {
 .group {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
 }
 
